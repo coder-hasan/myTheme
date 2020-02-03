@@ -6,7 +6,7 @@ jQuery(document).ready(function ($) {
         nav: true,
         items: 3,
         autoplayTimeout: 6000,
-//        autoplay: true,
+        autoplay: true,
         responsive: {
             0: {
                 center: false,
