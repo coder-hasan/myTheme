@@ -48,7 +48,7 @@
                             wp_nav_menu( array(
                                 'theme_location' => 'menu-1',
                                 'menu_id'        => 'primary-menu',
-                                'menu_class'     => 'nav navbar-nav',
+                                'menu_class'     => 'nav navbar-nav'
                             ) );
                            ?>
                         </div>
@@ -68,7 +68,7 @@
                             <button>Explore</button>
                         </div>
                     </div>
-                    <?phpn endforeach; ?>
+                    <?php endforeach; ?>
                 </div>
                 <div class="row">
                     <div class="col-md-12">
